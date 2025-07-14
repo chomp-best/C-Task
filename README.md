@@ -20,4 +20,5 @@ Minimalist task manager written in C with ASCII style
 
 ## Proximo paso para el dia 3:
 -Hacer el menu funcional 
+-Crear los struct y matrices para poder crear y borrar tareas
 
