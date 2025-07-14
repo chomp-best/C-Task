@@ -18,6 +18,6 @@ Minimalist task manager written in C with ASCII style
 ## Avances:
 -Escribi las funciones para mostrar el mensaje de bienvenida, la version del programa y el menu utilizando #define para que el codigo quede mas limpio y facil de modificar
 
-## Proximos paso para el dia 3:
+## Proximo paso para el dia 3:
 -Hacer el menu funcional 
 
