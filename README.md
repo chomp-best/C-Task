@@ -9,3 +9,15 @@ Minimalist task manager written in C with ASCII style
 
 ## Avances:
 - Escribi el nombre y caracteristiscas del programa en forma de comentarios, tambien escribi los prototipos de las funciones y el bloque main
+
+
+## Dia 2
+-Primera version del programa y menu
+![IMG_8884](https://github.com/user-attachments/assets/ed8f9969-6f3e-402d-9e19-ac76c3c2c5aa)
+
+## Avances:
+-Escribi las funciones para mostrar el mensaje de bienvenida, la version del programa y el menu utilizando #define para que el codigo quede mas limpio y facil de modificar
+
+## Proximos paso para el dia 3:
+-Hacer el menu funcional 
+
